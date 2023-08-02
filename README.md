@@ -1,4 +1,4 @@
-# Test-Plan Youtybe
+# Test-Plan Youtube
 
 Web search and browsing performance test.
 
